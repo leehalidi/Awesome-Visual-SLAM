@@ -1,12 +1,16 @@
-# Awesome-Deep-SLAM
+# Awesome-Visual-SLAM
 
 ## Category
-* [Odometry Estimation](#odometry-estimation)
+* [Feature-based SLAM](#feature-based-slam)
+* [Direct SLAM](#direct-slam)
+* [Deep SLAM](#deep-slam)
   * [Deep Visual Odometry](#deep-visual-odometry)
-
 -------------------------
-## Odometry Estimation
-
+## Feature-based SLAM
+-------------------------
+## Direct SLAM
+-------------------------
+## Deep SLAM
 ### Deep Visual Odometry
 | Name | 	Paper   | Category | Publication   | Code  | Other |
 |:-----------:|:------------------------------------------------------------:|:------------:|:------------:|:-------------------:|:-------:|
