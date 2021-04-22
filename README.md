@@ -9,6 +9,10 @@
 ## Feature-based SLAM
 -------------------------
 ## Direct SLAM
+| Name | 	Paper   | Category | Publication   | Code  | Other |
+|:-----------:|:------------------------------------------------------------:|:------------:|:------------:|:-------------------:|:-------:|
+| DSO  |[Direct Sparse Odometry](https://vision.in.tum.de/_media/spezial/bib/engel2016dso.pdf)|Sparse| TPAMI2018|[C++](https://github.com/JakobEngel/dso) <br> [ROS](https://github.com/JakobEngel/dso_ros)| [Website](https://vision.in.tum.de/research/vslam/dso?redirect=1) |
+
 -------------------------
 ## Deep SLAM
 ### Deep Visual Odometry
